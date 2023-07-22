@@ -3,5 +3,3 @@
 - 🌱 I am currently learning to program in Python and Data Engineering, PowerBI.
 - 💞️ I'm looking to collaborate in the creation of Android and IOS Apps.
 - 📫 How to reach me via email: soares.claudean@gmail.com/claudean.soares@gmail.com
-- Comando git push
-- Comando  git pull
