@@ -1,5 +1,5 @@
 # 🗺️ Engenharia de Dados Espaciais & Geoprocessamento
-## Claudean Soares | Engenheiro Cartógrafo | Python & Data Science
+## ClaudeanSoares | Engenheiro Cartógrafo e Agrimensor | Python & Data Science
 
 Olá! Sou um profissional multidisciplinar que une a precisão da **Engenharia Cartográfica** com o poder analítico da **Ciência de Dados**. Meu foco é transformar grandes volumes de dados em inteligência estratégica para logística, infraestrutura e mapeamento.
 
