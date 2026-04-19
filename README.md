@@ -1,14 +1,14 @@
 # 🗺️ Engenharia de Dados Espaciais & Geoprocessamento
 ## ClaudeanSoares | Engenheiro Cartógrafo e Agrimensor | Python & Data Science
 
-Olá! Sou um profissional multidisciplinar que une a precisão da **Engenharia Cartográfica** com o poder analítico da **Ciência de Dados**. Meu foco é transformar grandes volumes de dados em inteligência estratégica para logística, infraestrutura e mapeamento.
+Olá! Sou um profissional multidisciplinar que une a precisão da **Engenharia Cartográfica e de Agrimensura-UFPI** com o poder analítico da **Ciência de Dados**. Meu foco é transformar grandes volumes de dados em inteligência estratégica para logística, infraestrutura e mapeamento.
 
 ---
 
 ### 🚀 Visão Profissional e Diferencial
 Com uma trajetória sólida em áreas técnicas (Elétrica, Redes e Condução Técnica), utilizo a **Ciência de Dados** para escalar a precisão da engenharia tradicional. Desenvolvo soluções que conectam o mundo físico ao digital, otimizando processos geoespaciais e logísticos através de automação inteligente.
 
-- 🎓 **Engenheiro Cartógrafo e de Agrimensura**
+- 🎓 **Engenheiro Cartógrafo e de Agrimensor**
 - 🐍 **Data Scientist** (Formado pelo Bootcamp Santander 2025)
 - 🔭 **Foco Atual:** Automação de processos SIG e análise espacial avançada com Python.
 
