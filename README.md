@@ -44,7 +44,9 @@ Com uma trajetória sólida em áreas técnicas (Elétrica, Redes e Condução T
 ### 📈 Educação & Certificações
 - **Bootcamp Santander 2025 - Ciência de Dados com Python** (Concluído em 23/01/2026) — *DIO.me*
 - **Especialização em Geoprocessamento** (Em andamento) — *UFABC*
-- **Técnico em Redes de Computadores**
+- **Técnico Instalador e Reparador em Redes de Computadores** — *IFTO*
+- **Programador de Dispositivos Móveis** — *IFTO*
+- **Cadista para Construção Civil** — *IFRO*   
 
 ---
 
